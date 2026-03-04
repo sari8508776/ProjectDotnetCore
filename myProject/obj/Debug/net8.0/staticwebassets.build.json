@@ -1,0 +1,743 @@
+{
+  "Version": 1,
+  "Hash": "tdEpQHhSgjNcFJo9VqGjvBBA9ry0wotwKFbx7mlLUb8=",
+  "Source": "myProject",
+  "BasePath": "_content/myProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "myProject\\wwwroot",
+      "Source": "myProject",
+      "ContentRoot": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\",
+      "BasePath": "_content/myProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\css\\site.css",
+      "SourceId": "myProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\",
+      "BasePath": "_content/myProject",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4td31jog1p",
+      "Integrity": "WErn1Fzn3JPfkWjwgg2qEePaIK5++Wehgxz4l6pAS5s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\css\\user.css",
+      "SourceId": "myProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\",
+      "BasePath": "_content/myProject",
+      "RelativePath": "css/user#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q8maoklza3",
+      "Integrity": "5ngHoANNLIvFE5AkITX/GwAV3+3Vc4kTNhp1oRpvk60=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\user.css"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\html\\user.html",
+      "SourceId": "myProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\",
+      "BasePath": "_content/myProject",
+      "RelativePath": "html/user#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xzwxq3fck8",
+      "Integrity": "s6R8dOsLINmlkLzRlPo1FcPC0NHIOzm1kxlNz9lCQeI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\user.html"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\index.html",
+      "SourceId": "myProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\",
+      "BasePath": "_content/myProject",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v4qtpxkitt",
+      "Integrity": "cTnccK/6Q1mrInj1JeLLqjtr5IPFKpYTfAiU5m7KAHQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\js\\site.js",
+      "SourceId": "myProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\",
+      "BasePath": "_content/myProject",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sm8d0carfl",
+      "Integrity": "9Hwzg2tDDaMfIt1zpAfoeyJ5/cuc9zbJ+7UUMoC1fd4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\js\\users.js",
+      "SourceId": "myProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\",
+      "BasePath": "_content/myProject",
+      "RelativePath": "js/users#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hluscfwxuo",
+      "Integrity": "Gw5iLVV2F8rvYvk4INbj5I6h47wKt1Wj/pJJLkClVf4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\users.js"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\login.html",
+      "SourceId": "myProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\",
+      "BasePath": "_content/myProject",
+      "RelativePath": "login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bju9adjncq",
+      "Integrity": "KW/koiAV+3XpApF/ZIYFeTXbkR8whkrZ+nsm0vA71Wg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.4td31jog1p.css",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WErn1Fzn3JPfkWjwgg2qEePaIK5++Wehgxz4l6pAS5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Mar 2026 18:40:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4td31jog1p"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WErn1Fzn3JPfkWjwgg2qEePaIK5++Wehgxz4l6pAS5s="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WErn1Fzn3JPfkWjwgg2qEePaIK5++Wehgxz4l6pAS5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Mar 2026 18:40:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WErn1Fzn3JPfkWjwgg2qEePaIK5++Wehgxz4l6pAS5s="
+        }
+      ]
+    },
+    {
+      "Route": "css/user.css",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\css\\user.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5ngHoANNLIvFE5AkITX/GwAV3+3Vc4kTNhp1oRpvk60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Mar 2026 18:40:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5ngHoANNLIvFE5AkITX/GwAV3+3Vc4kTNhp1oRpvk60="
+        }
+      ]
+    },
+    {
+      "Route": "css/user.q8maoklza3.css",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\css\\user.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5ngHoANNLIvFE5AkITX/GwAV3+3Vc4kTNhp1oRpvk60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Mar 2026 18:40:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q8maoklza3"
+        },
+        {
+          "Name": "label",
+          "Value": "css/user.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5ngHoANNLIvFE5AkITX/GwAV3+3Vc4kTNhp1oRpvk60="
+        }
+      ]
+    },
+    {
+      "Route": "html/user.html",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\html\\user.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s6R8dOsLINmlkLzRlPo1FcPC0NHIOzm1kxlNz9lCQeI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Mar 2026 18:36:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6R8dOsLINmlkLzRlPo1FcPC0NHIOzm1kxlNz9lCQeI="
+        }
+      ]
+    },
+    {
+      "Route": "html/user.xzwxq3fck8.html",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\html\\user.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s6R8dOsLINmlkLzRlPo1FcPC0NHIOzm1kxlNz9lCQeI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Mar 2026 18:36:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xzwxq3fck8"
+        },
+        {
+          "Name": "label",
+          "Value": "html/user.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6R8dOsLINmlkLzRlPo1FcPC0NHIOzm1kxlNz9lCQeI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cTnccK/6Q1mrInj1JeLLqjtr5IPFKpYTfAiU5m7KAHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Mar 2026 18:36:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cTnccK/6Q1mrInj1JeLLqjtr5IPFKpYTfAiU5m7KAHQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.v4qtpxkitt.html",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cTnccK/6Q1mrInj1JeLLqjtr5IPFKpYTfAiU5m7KAHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Mar 2026 18:36:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v4qtpxkitt"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cTnccK/6Q1mrInj1JeLLqjtr5IPFKpYTfAiU5m7KAHQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9Hwzg2tDDaMfIt1zpAfoeyJ5/cuc9zbJ+7UUMoC1fd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Mar 2026 18:40:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9Hwzg2tDDaMfIt1zpAfoeyJ5/cuc9zbJ+7UUMoC1fd4="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.sm8d0carfl.js",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9Hwzg2tDDaMfIt1zpAfoeyJ5/cuc9zbJ+7UUMoC1fd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Mar 2026 18:40:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sm8d0carfl"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9Hwzg2tDDaMfIt1zpAfoeyJ5/cuc9zbJ+7UUMoC1fd4="
+        }
+      ]
+    },
+    {
+      "Route": "js/users.hluscfwxuo.js",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\js\\users.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gw5iLVV2F8rvYvk4INbj5I6h47wKt1Wj/pJJLkClVf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 Dec 2025 18:35:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hluscfwxuo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/users.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gw5iLVV2F8rvYvk4INbj5I6h47wKt1Wj/pJJLkClVf4="
+        }
+      ]
+    },
+    {
+      "Route": "js/users.js",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\js\\users.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gw5iLVV2F8rvYvk4INbj5I6h47wKt1Wj/pJJLkClVf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 Dec 2025 18:35:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gw5iLVV2F8rvYvk4INbj5I6h47wKt1Wj/pJJLkClVf4="
+        }
+      ]
+    },
+    {
+      "Route": "login.bju9adjncq.html",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KW/koiAV+3XpApF/ZIYFeTXbkR8whkrZ+nsm0vA71Wg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 Dec 2025 18:12:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bju9adjncq"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KW/koiAV+3XpApF/ZIYFeTXbkR8whkrZ+nsm0vA71Wg="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "C:\\Users\\1\\Documents\\GitHub\\ProjectDotnetCore\\myProject\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KW/koiAV+3XpApF/ZIYFeTXbkR8whkrZ+nsm0vA71Wg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 Dec 2025 18:12:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KW/koiAV+3XpApF/ZIYFeTXbkR8whkrZ+nsm0vA71Wg="
+        }
+      ]
+    }
+  ]
+}
