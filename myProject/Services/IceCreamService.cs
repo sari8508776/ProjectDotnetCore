@@ -15,9 +15,11 @@ public class IceCreamService : IIceCreamService
     {
            list = new List<IceCream>
         {
-            new IceCream { Id = 1, Name = "Vanilla Dream", IsVegan = false},
-            new IceCream { Id = 2, Name = "Strawberry Bliss", IsVegan = true},
-            new IceCream { Id = 3, Name = "Chocolate Delight", IsVegan = false}
+            new IceCream { Id = 1, Name = "Vanilla Dream", IsVegan = false, UserId = 1},
+            new IceCream { Id = 2, Name = "Strawberry Bliss", IsVegan = true, UserId = 1},
+            new IceCream { Id = 3, Name = "Chocolate Delight", IsVegan = false, UserId = 2},
+            new IceCream { Id = 4, Name = "Mint Chocolate Chip", IsVegan = false, UserId = 5},
+            new IceCream { Id = 5, Name = "Cookies and Cream", IsVegan = false, UserId = 6}
         };
     }
   

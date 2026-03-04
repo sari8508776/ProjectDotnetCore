@@ -1,4 +1,4 @@
-const uri = '/IceCream';
+const uri = '/api/IceCream';
 let items = [];
 
 function getHeaders() {

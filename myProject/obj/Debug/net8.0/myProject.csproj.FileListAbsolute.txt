@@ -92,7 +92,6 @@ C:\Users\1\Documents\GitHub\dotnet_core\myProject\bin\Debug\net8.0\System.Identi
 C:\Users\1\Documents\GitHub\dotnet_core\myProject\bin\Debug\net8.0\Data\User.json
 C:\Users\1\Documents\GitHub\ProjectDotnetCore\myProject\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\1\Documents\GitHub\ProjectDotnetCore\myProject\bin\Debug\net8.0\appsettings.json
-C:\Users\1\Documents\GitHub\ProjectDotnetCore\myProject\bin\Debug\net8.0\Data\User.json
 C:\Users\1\Documents\GitHub\ProjectDotnetCore\myProject\bin\Debug\net8.0\myProject.staticwebassets.runtime.json
 C:\Users\1\Documents\GitHub\ProjectDotnetCore\myProject\bin\Debug\net8.0\myProject.staticwebassets.endpoints.json
 C:\Users\1\Documents\GitHub\ProjectDotnetCore\myProject\bin\Debug\net8.0\myProject.exe
@@ -136,3 +135,5 @@ C:\Users\1\Documents\GitHub\ProjectDotnetCore\myProject\obj\Debug\net8.0\refint\
 C:\Users\1\Documents\GitHub\ProjectDotnetCore\myProject\obj\Debug\net8.0\myProject.pdb
 C:\Users\1\Documents\GitHub\ProjectDotnetCore\myProject\obj\Debug\net8.0\myProject.genruntimeconfig.cache
 C:\Users\1\Documents\GitHub\ProjectDotnetCore\myProject\obj\Debug\net8.0\ref\myProject.dll
+C:\Users\1\Documents\GitHub\ProjectDotnetCore\myProject\obj\Debug\net8.0\myProject.sourcelink.json
+C:\Users\1\Documents\GitHub\ProjectDotnetCore\myProject\bin\Debug\net8.0\Data\User.json
