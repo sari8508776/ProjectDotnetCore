@@ -104,9 +104,13 @@ public class UserController : ControllerBase
         
         var claims = new List<Claim>
         {
+            // custom claims used by the app
             new Claim("username", user.Name),
             new Claim("userid", user.Id.ToString()),
-            new Claim("usertype", userType)
+            new Claim("usertype", userType),
+            // standard claims so ASP.NET Core and SignalR can identify the user
+            new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
+            new Claim(ClaimTypes.Name, user.Name)
         };
         var token = FbiTokenService.GetToken(claims);
         var tokenString = FbiTokenService.WriteToken(token);
